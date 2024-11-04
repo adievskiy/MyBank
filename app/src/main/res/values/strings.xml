@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyBank</string>
+    <string name="textBankNameTV">Просто Банк</string>
+    <string name="textStartBTN">Зарабатывать</string>
+    <string name="textRegisterHeaderTV">Регистрация</string>
+    <string name="hintLoginET">Введите логин</string>
+    <string name="hintPasswordET">Введите пароль</string>
+    <string name="hintLoginEnterET">Введите логин</string>
+    <string name="hintPasswordEnterET">Введите пароль</string>
+    <string name="textRegisterBTN">Регистрация</string>
+    <string name="textEnterBTN">Я зарегистрирован</string>
+    <string name="textLoginBTN">Войти</string>
+    <string name="textLoginHeaderTV">Вход</string>
+    <string name="textCompleteTV">МЫ В БАНКЕ!</string>
+</resources>
