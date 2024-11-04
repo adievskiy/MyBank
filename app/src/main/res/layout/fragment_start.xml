@@ -29,7 +29,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
         android:layout_marginBottom="200dp"
-        android:textAlignment="center"/>
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
     <Button
         android:id="@+id/startBTN"
         android:layout_width="200dp"

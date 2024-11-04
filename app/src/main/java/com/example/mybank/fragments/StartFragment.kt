@@ -11,7 +11,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import com.example.mybank.RegisterActivity
 import com.example.mybank.R
-import com.example.mybank.StartViewData
+import com.example.mybank.db.StartViewData
 
 class StartFragment : Fragment() {
 
