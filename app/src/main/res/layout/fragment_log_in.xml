@@ -33,7 +33,10 @@
         android:layout_marginTop="50dp"
         android:hint="@string/hintLoginEnterET"
         android:textColor="@color/white"
-        android:textColorHint="#8A7A7A"/>
+        android:textColorHint="#8A7A7A"
+        android:backgroundTint="#8A7A7A"
+        android:background="@drawable/button_border"
+        android:padding="8dp"/>
 
     <EditText
         android:id="@+id/passwordEnterET"
@@ -43,7 +46,11 @@
         android:layout_marginTop="100dp"
         android:hint="@string/hintPasswordEnterET"
         android:textColor="@color/white"
-        android:textColorHint="#8A7A7A"/>
+        android:textColorHint="#8A7A7A"
+        android:backgroundTint="#8A7A7A"
+        android:background="@drawable/button_border"
+        android:padding="8dp"
+        android:inputType="textPassword"/>
 
     <Button
         android:id="@+id/loginBTN"
